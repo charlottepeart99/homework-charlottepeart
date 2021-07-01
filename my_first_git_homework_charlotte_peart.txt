@@ -20,4 +20,4 @@ Git commands
 10. Git push - sends committed changes in a file to the master branch
 11. Git fetch - detect the latest history of the project from the remote repo
 12. Git merge - put changes in a different branch to the paster branch
-13. Gir pull - bring the changes found in 'fetch' to the local repo
+13. Gir pull - bring the changes found in 'fetch' to the local repo 
